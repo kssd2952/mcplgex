@@ -1,0 +1,4 @@
+name: mcplgex
+main: com.choon.mcplgex.Main
+version: 0.1.0
+api-version: 1.21
